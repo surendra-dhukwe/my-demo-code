@@ -1,3 +1,4 @@
 # my-demo-code
 This is my first Git Repository.
-Author - Surendra dhukwe
+Author - Surendra dhukwe ji
+
